@@ -1,3 +1,7 @@
+#Team 12 1st Deliverable
+#1st Member: Zain Baig
+#PSID: 1919288
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
